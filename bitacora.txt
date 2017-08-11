@@ -1,0 +1,38 @@
+Reunion:{personal, virtual}
+Integrantes:{nombre-estado{aprobado-pendiente-desaprobado}}
+Fecha:{}
+Descripcion:{}
+Decision:{}
+--------------------------------------------------------------------------------------------------------
+**************************************************************************************
+--------------------------------------------------------------------------------------------------------
+Reunion: personal
+Integrantes:
+	Joan Manuel-
+	Juan Pablo-
+	Kevin-
+	Maximiliano-Aprobado
+
+Fecha:11/08/2017
+Descripcion:Metodologia de trabajo
+Decision: Crear usuario en github y repositorio compartido para la documentacion proyecto. El mismo cuenta
+	con dos grupos de carpetas con archivos editables y en formato pdf. El archivo leeme.txt contiene
+	las referencias del nombre de las carpetas. Se adjuntan especificacion de requisitos, cursogramas
+	recursos hardware y relais del proyecto a completar.
+--------------------------------------------------------------------------------------------------------
+**************************************************************************************
+--------------------------------------------------------------------------------------------------------
+Reunion: Personal
+Integrantes:
+	Joan Manuel-
+	Juan Pablo-
+	Kevin-
+	Maximiliano-Aprobado
+
+Fecha:18/08/2017
+Descripcion:Seleccion Modelo de Ciclo de Vida
+Decision: .
+--------------------------------------------------------------------------------------------------------
+**************************************************************************************
+--------------------------------------------------------------------------------------------------------
+
