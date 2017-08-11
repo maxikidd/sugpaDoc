@@ -1,0 +1,8 @@
+Referencias carpetas/contenido: [edit-pdf]
+
+CUR-cursogramas
+DCU-diagramas de casos de uso
+MapaGANTT-mapa de actividades y diagrama de gantt (project)
+Organigrama-organigrama de la reparticion
+Raiz- documento que integración de la documentación
+bitacora- archivo para hacer seguimiento a la desiciones de grupo
