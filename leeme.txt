@@ -2,6 +2,7 @@ Referencias carpetas/contenido: [edit-pdf]
 
 CUR-cursogramas
 DCU-diagramas de casos de uso
+ECU-especificacion de caso de uso
 MapaGANTT-mapa de actividades y diagrama de gantt (project)
 Organigrama-organigrama de la reparticion
 Raiz- documento que integración de la documentación
