@@ -6,4 +6,5 @@ MapaGANTT-mapa de actividades y diagrama de gantt (project)
 Organigrama-organigrama de la reparticion
 Raiz- documento que integración de la documentación
 Excel- contiene libros excel de playa rio cuarto y gestión de playas.
+GesProyect - tablas del proceso de iniciacion del proyecto.
 bitacora- archivo para hacer seguimiento a la desiciones de grupo
