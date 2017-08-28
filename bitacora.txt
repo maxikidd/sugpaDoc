@@ -24,7 +24,7 @@ Decision: Crear usuario en github y repositorio compartido para la documentacion
 --------------------------------------------------------------------------------------------------------
 Reunion: Personal
 Integrantes:
-	Joan Manuel-
+	Joan Manuel- Aprobado
 	Juan Pablo-
 	Kevin-
 	Maximiliano-Aprobado
