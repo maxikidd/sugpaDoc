@@ -9,7 +9,7 @@ Decision:{}
 Reunion: personal
 Integrantes:
 	Joan Manuel-Aprobado
-	Juan Pablo-
+	Juan Pablo-Aprobado
 	Kevin-
 	Maximiliano-Aprobado
 
@@ -24,8 +24,8 @@ Decision: Crear usuario en github y repositorio compartido para la documentacion
 --------------------------------------------------------------------------------------------------------
 Reunion: Personal
 Integrantes:
-	Joan Manuel- Aprobado
-	Juan Pablo-
+	Joan Manuel-Aprobado
+	Juan Pablo-Aprobado
 	Kevin-
 	Maximiliano-Aprobado
 
@@ -39,7 +39,7 @@ Decision: se elegio modelo de ciclo de vida prototipado evolutivo.
 Reunion: Personal
 Integrantes:
 	Joan Manuel- 
-	Juan Pablo-
+	Juan Pablo-Aprobado
 	Kevin-
 	Maximiliano-Aprobado
 
@@ -56,7 +56,7 @@ en jsp a php con la estructura de directorios.
 Reunion: Personal
 Integrantes:
 	Joan Manuel- 
-	Juan Pablo-
+	Juan Pablo-Aprobado
 	Kevin-
 	Maximiliano-Aprobado
 
