@@ -53,3 +53,20 @@ en jsp a php con la estructura de directorios.
 --------------------------------------------------------------------------------------------------------
 **************************************************************************************
 --------------------------------------------------------------------------------------------------------
+Reunion: Personal
+Integrantes:
+	Joan Manuel- 
+	Juan Pablo-
+	Kevin-
+	Maximiliano-Aprobado
+
+Fecha:08/09/2017
+Descripcion:Reunion con el cliente
+Decision: se debe generar una nueva version del gantt con las iteraciones de los prototipos, una nueva
+version del mapa de actividades acorde al modelo agil. En la primera iteracion
+se trabajara con el login y el ingreso de vehiculos a la playa, Joan Manuel y Juan Pablo diseñaran la arquitectura
+ de este modulo, Kevin la base de datos y Maximiliano la ERS de este modulo junto al modulo de egresar vehiculo y 
+agregar observaciones. Se pacta reunion de equipo para el martes 12/09.  
+--------------------------------------------------------------------------------------------------------
+**************************************************************************************
+--------------------------------------------------------------------------------------------------------
