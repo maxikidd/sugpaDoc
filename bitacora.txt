@@ -10,7 +10,7 @@ Reunion: personal
 Integrantes:
 	Joan Manuel-Aprobado
 	Juan Pablo-Aprobado
-	Kevin-
+	Kevin-Aprobado
 	Maximiliano-Aprobado
 
 Fecha:11/08/2017
@@ -26,7 +26,7 @@ Reunion: Personal
 Integrantes:
 	Joan Manuel-Aprobado
 	Juan Pablo-Aprobado
-	Kevin-
+	Kevin-Aprobado
 	Maximiliano-Aprobado
 
 Fecha:18/08/2017
@@ -40,7 +40,7 @@ Reunion: Personal
 Integrantes:
 	Joan Manuel-Aprobado
 	Juan Pablo-Aprobado
-	Kevin-
+	Kevin-Aprobado
 	Maximiliano-Aprobado
 
 Fecha:01/09/2017
@@ -48,7 +48,7 @@ Descripcion:Definir el entorno y division el trabajo
 Decision: se elegio php como lenguaje servidor, postgreSQL como motor de base de datos, eclipse php como IDE
 Bootstrap del gobierno para las interfaces.
 Joan Manuel y Juan Pablo se encargaran de generar el select de marcas y modelos de la vista de ingresar vehiculos de la maqueta, 
-kevin de investigar el motor de base de datos y Maximiliano de la integración de la maqueta 
+kevin de investigar el motor de base de datos y Maximiliano de la integraciÃ³n de la maqueta 
 en jsp a php con la estructura de directorios.
 --------------------------------------------------------------------------------------------------------
 **************************************************************************************
@@ -57,14 +57,14 @@ Reunion: Personal
 Integrantes:
 	Joan Manuel-Aprobado
 	Juan Pablo-Aprobado
-	Kevin-
+	Kevin-Aprobado
 	Maximiliano-Aprobado
 
 Fecha:08/09/2017
 Descripcion:Reunion con el cliente
 Decision: se debe generar una nueva version del gantt con las iteraciones de los prototipos, una nueva
 version del mapa de actividades acorde al modelo agil. En la primera iteracion
-se trabajara con el login y el ingreso de vehiculos a la playa, Joan Manuel y Juan Pablo diseñaran la arquitectura
+se trabajara con el login y el ingreso de vehiculos a la playa, Joan Manuel y Juan Pablo diseÃ±aran la arquitectura
  de este modulo, Kevin la base de datos y Maximiliano la ERS de este modulo junto al modulo de egresar vehiculo y 
 agregar observaciones. Se pacta reunion de equipo para el martes 12/09.  
 --------------------------------------------------------------------------------------------------------
