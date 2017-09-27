@@ -1,4 +1,4 @@
-Reunion:{personal, virtual}
+﻿Reunion:{personal, virtual}
 Integrantes:{nombre-estado{aprobado-pendiente-desaprobado}}
 Fecha:{}
 Descripcion:{}
@@ -70,3 +70,77 @@ agregar observaciones. Se pacta reunion de equipo para el martes 12/09.
 --------------------------------------------------------------------------------------------------------
 **************************************************************************************
 --------------------------------------------------------------------------------------------------------
+Reunion: Virtual
+Integrantes:
+	Joan Manuel-
+	Juan Pablo-
+	Kevin-
+	Maximiliano-Aprobado
+
+Fecha:12/09/2017
+Descripcion:Gestion del proyecto
+Decision: Maximiliano actualiza los requisitos administrativos sugpa, Joan Manuel y Juan Pablo se agregan marcas y modelos de vehiculos
+y kevin un repositorio con el patron Dao para acceder a las bases de datos.  
+--------------------------------------------------------------------------------------------------------
+**************************************************************************************
+--------------------------------------------------------------------------------------------------------
+Reunion: Personal
+Integrantes:
+	Joan Manuel-
+	Juan Pablo-
+	Kevin-
+	Maximiliano-Aprobado
+
+Fecha:15/09/2017
+Descripcion:Gestion del proyecto
+Decision: Maximiliano actualiza archivo raiz y el diagrama de gantt, Joan Manuel y Juan Pablo 
+agregan las actividades excluidas del proyecto, la tabla de responsabilidades del equipo y 
+kevin agrega el diagrama de secuencias del login.  
+--------------------------------------------------------------------------------------------------------
+**************************************************************************************
+--------------------------------------------------------------------------------------------------------
+Reunion: Virtual
+Integrantes:
+	Joan Manuel-
+	Juan Pablo-
+	Kevin-
+	Maximiliano-Aprobado
+
+Fecha:19/09/2017
+Descripcion:Gestion del proyecto
+Decision: Maximiliano actualiza el diagrama de gantt, Joan manuel actualiza el mapa de actividades y el archivo
+raiz del proyecto, Juan Pablo actualiza la tabla de responsabilidades, agrega puntos de funcion y 
+COCOMO II, Kevin agrega la ERS de la Sesión y la primer version del DER.  
+--------------------------------------------------------------------------------------------------------
+**************************************************************************************
+--------------------------------------------------------------------------------------------------------
+Reunion: Virtual
+Integrantes:
+	Joan Manuel-
+	Juan Pablo-
+	Kevin-
+	Maximiliano-Aprobado
+
+Fecha:22/09/2017
+Descripcion:Primer hito de entrega: Analisis y Diseño
+Decision: se actualiza el archivo raiz y se sube en formato pdf al campus virtual de la 
+catedra Proyecto de Software para su analisis.  
+--------------------------------------------------------------------------------------------------------
+**************************************************************************************
+--------------------------------------------------------------------------------------------------------s
+Reunion: Personal
+Integrantes:
+	Joan Manuel-
+	Juan Pablo-
+	Kevin-
+	Maximiliano-Aprobado
+
+Fecha:26/09/2017
+Descripcion: Evaluacion de la primer version del DER
+Decision: Kevin expone la version del DER y se realizan algunas correcciones con respecto
+a los requisitos, se asigna a Juan Pablo y Joan Manuel la tarea de diseñar la arquitectura
+del login y realizar requisitos de interface de ingreso de vehiculos, se relevan algunas preguntas
+para realizar a la organizacion y al cliente.
+--------------------------------------------------------------------------------------------------------
+**************************************************************************************
+--------------------------------------------------------------------------------------------------------s
