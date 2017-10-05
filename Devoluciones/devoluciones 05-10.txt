@@ -1,0 +1,37 @@
+Kevin - DER
+
+Te paso algunas modificaciones y preguntas sobre el modelo:
+
+1) Cedula y Remito en Documentos por separado así se saben que son documentos diferentes. Falta Acta de Entrega
+2) Tabla moviento con idUsuario o el nombre usuario? el id es para mi mejor opcion por si el nombre
+del usuario cambia. En el caso de hacerse un trigger esta bien que se almacene en una tabla toda esa info
+para despues poder consultarla desde la sesion del admin sugpa.
+3) La tabla compactacion para mi estaria demás si tenemos un tipo de egreso o el estado compactado.
+4) Registro y Egreso fechaHora juntos, tendremos problemas para sacar la fecha solamente?
+5) Operacion guardaria las observaciones que se cargan en las demas tablas?
+
+Kevin - PHP
+
+1) Meter los paquetes en una carpeta llamada app y que incluya desde desde ahí, lei con requiere .__DIR__ es como
+en el caso de las vistas "../../" para ir uno para tras y entre parentesis le tenes que poner la ruta
+
+2) En el nombre del usuario un espacio intermedio entre apellido y nombre
+
+Joan y Juampi - Vistas
+
+1) A ingresar vehiculo le falta el numero de inventario generado en la via publica. 
+2) La solucion de los numeros no cierra porque te volves loco llegando a 32 milloned por ejemplo. 
+3) Abreviacion del tipo de documento Ex para extranjero
+4) El ingreso del vehiculo puede ser por recepcion de otra playa en ese caso ya estaria de alta el registro
+5) La pantalla de egreso de vehiculo tiene que contemplar el caso de trasaldo de playas ya sea compactacion o entre playas.
+
+Joan y Juampi - Doc
+
+Sobre el listado de caso de uso.
+
+1)El reporte al mail es un caso de uso del tipo extendida a para mi que va a haber que codificar
+por que hay que traer listados y cantidades, y usar el servidor de email para enviarlo a las gerencias
+2)Admin sugpa genera un acta de entrega (carga datos de la persona que retira), para este caso de uso
+el agente de playa tiene que tener en la pantalla de egreso la opcion, para este registro que previamente tuvo el acta
+de entrega emitida, de egresar por orden de Area de Gestion de Playas cargando apellido, nombre y dni que figuran en 
+el acta de entrega emitida.

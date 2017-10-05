@@ -144,3 +144,22 @@ para realizar a la organizacion y al cliente.
 --------------------------------------------------------------------------------------------------------
 **************************************************************************************
 --------------------------------------------------------------------------------------------------------s
+Reunion: Personal
+Integrantes:
+	Joan Manuel-
+	Juan Pablo-
+	Kevin-
+	Maximiliano-Aprobado
+
+Fecha:03/10/2017
+Descripcion: Actitudes de mejora del equipo de soft y FeedBack
+Decision: Se analizan cuales fueron los puntos de analisis del riesgo en funcion del primer periodo de trabajo
+tomando una lectura grupal de la bitacora y el material optenido. Se decidio mantener las reponsabilidades
+segun la tabla de responsabilidades, en resumen: Documentacion y Vistas Juan Pablo y Joan Manuel, Base de Datos y Programacion Kevin, y Lider
+del Proyecto y Analisis Maximiliano. Se va a generar una carpeta en el repositorio llamado Devoluciones con archivos txt con
+devoluciones de las actividades parciales de los participantes para resolver enumeradas y serparadas por responsabilidad,
+cada archivo contara con la fecha de devolucion y se generaran la cantidad de archivos necesarias por semana 
+para resolver n preguntas o trabajos de los participantes.
+--------------------------------------------------------------------------------------------------------
+**************************************************************************************
+--------------------------------------------------------------------------------------------------------
