@@ -73,7 +73,7 @@ agregar observaciones. Se pacta reunion de equipo para el martes 12/09.
 Reunion: Virtual
 Integrantes:
 	Joan Manuel-Aprobado
-	Juan Pablo-
+	Juan Pablo-Aprobado
 	Kevin-Aprobado
 	Maximiliano-Aprobado
 
@@ -87,7 +87,7 @@ y kevin un repositorio con el patron Dao para acceder a las bases de datos.
 Reunion: Personal
 Integrantes:
 	Joan Manuel-Aprobado
-	Juan Pablo-
+	Juan Pablo-Aprobado
 	Kevin-Aprobado
 	Maximiliano-Aprobado
 
@@ -102,7 +102,7 @@ kevin agrega el diagrama de secuencias del login.
 Reunion: Virtual
 Integrantes:
 	Joan Manuel-Aprobado
-	Juan Pablo-
+	Juan Pablo-Aprobado
 	Kevin-Aprobado
 	Maximiliano-Aprobado
 
@@ -117,7 +117,7 @@ COCOMO II, Kevin agrega la ERS de la Sesión y la primer version del DER.
 Reunion: Virtual
 Integrantes:
 	Joan Manuel-Aprobado
-	Juan Pablo-
+	Juan Pablo-Aprobado
 	Kevin-Aprobado
 	Maximiliano-Aprobado
 
@@ -131,7 +131,7 @@ catedra Proyecto de Software para su analisis.
 Reunion: Personal
 Integrantes:
 	Joan Manuel-Aprobado
-	Juan Pablo-
+	Juan Pablo-Aprobado
 	Kevin-Aprobado
 	Maximiliano-Aprobado
 
@@ -147,7 +147,7 @@ para realizar a la organizacion y al cliente.
 Reunion: Personal
 Integrantes:
 	Joan Manuel-Aprobado
-	Juan Pablo-
+	Juan Pablo-Aprobado
 	Kevin-
 	Maximiliano-Aprobado
 
