@@ -165,7 +165,7 @@ para resolver n preguntas o trabajos de los participantes.
 --------------------------------------------------------------------------------------------------------
 Reunion: Personal
 Integrantes:
-	Joan Manuel-
+	Joan Manuel-Aprobado
 	Juan Pablo-
 	Kevin-
 	Maximiliano-Aprobado
@@ -181,7 +181,7 @@ mails por parte del sistema a los usuarios del mismo.
 --------------------------------------------------------------------------------------------------------
 Reunion: Virtual
 Integrantes:
-	Joan Manuel-
+	Joan Manuel-Aprobado
 	Juan Pablo-
 	Kevin-
 	Maximiliano-Aprobado
