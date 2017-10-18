@@ -163,3 +163,35 @@ para resolver n preguntas o trabajos de los participantes.
 --------------------------------------------------------------------------------------------------------
 **************************************************************************************
 --------------------------------------------------------------------------------------------------------
+Reunion: Personal
+Integrantes:
+	Joan Manuel-
+	Juan Pablo-
+	Kevin-
+	Maximiliano-Aprobado
+
+Fecha:10/10/2017
+Descripcion: Mapa de navegacion y requisitos egresar vehiculo
+Decision: Se terminan de refinar detalles en la documentacion de analisis y diseño. Se detalla a juan pablo y joan manuel
+cuales son los escenarios de egreso de vehículo y el mapa de navegacion a completar. Kevin se encarga de crear el repositorio
+para el prototipado evolutivo integrando el trabajo de la sesion. Maximiliano se encargara de agregar la funcionalidad de recibir
+mails por parte del sistema a los usuarios del mismo.
+--------------------------------------------------------------------------------------------------------
+**************************************************************************************
+--------------------------------------------------------------------------------------------------------
+Reunion: Virtual
+Integrantes:
+	Joan Manuel-
+	Juan Pablo-
+	Kevin-
+	Maximiliano-Aprobado
+
+Fecha:17/10/2017
+Descripcion: Gernerar datos de prueba y refinamiento de ingresar y egresar vehículo.
+Decision: Se asigna la tarea de generar los datos de prueba a partir de las fuentes de datos en la carpeta excel del repositorio de 
+la documentacion en archivos .txt delimitados por tabulaciones con la primer columna como cabezara en miniscula. Kevin se encarga de 
+crear el script sql de la base de datos en postgres con datos de prueba de la sesion y modificar el envio de los datos por post, agregar
+el modelo de las clases en php. Maximiliano se encargara de integrar la funcionalidad de restablecer el correo al mail y completar el archivo raiz.
+--------------------------------------------------------------------------------------------------------
+**************************************************************************************
+--------------------------------------------------------------------------------------------------------
