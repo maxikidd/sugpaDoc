@@ -167,7 +167,7 @@ Reunion: Personal
 Integrantes:
 	Joan Manuel-Aprobado
 	Juan Pablo-
-	Kevin-
+	Kevin-Aprobado
 	Maximiliano-Aprobado
 
 Fecha:10/10/2017
@@ -183,7 +183,7 @@ Reunion: Virtual
 Integrantes:
 	Joan Manuel-Aprobado
 	Juan Pablo-
-	Kevin-
+	Kevin-Aprobado
 	Maximiliano-Aprobado
 
 Fecha:17/10/2017
