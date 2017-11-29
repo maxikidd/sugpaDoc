@@ -1,16 +1,19 @@
-Prueba 10 - Por ahora en Stand BY, no tenemos hecho el enviar mail ni tampoco restaura la contraseña
+--Prueba 10 - Por ahora en Stand BY, no tenemos hecho el enviar mail ni tampoco restaura la contraseña
 
-Prueba 13 y 15 - Solucionados
+**Prueba 13 y 15 - Solucionados
 
-Prueba 22 - El dominio no lo valido. Si valido el Interno que no se repita. Cambio la validacion de la prueba de dominio a interno y listo.
+**Prueba 22 - El dominio no lo valido. Si valido el Interno que no se repita. Cambio la validacion de la prueba de dominio a interno y listo.
 
-Prueba 23 - No entiendo eso de omitir todos los campos, supongo que dejarlos en blanco con espacios. 
+**Prueba 23 - No entiendo eso de omitir todos los campos, supongo que dejarlos en blanco con espacios. 
 		Igual le agregue algunas validaciones para evitar eso.
 
 Prueba 26 - Creo que es un error de logica de los datos de prueba.
 
-Prueba 38 - Solucionado, la contraseña debe tener un minimo de 8 caracteres.
+**Prueba 38 - Solucionado, la contraseña debe tener un minimo de 8 caracteres.
 
-Prueba 44 - Si tratas de ver el inventario de un vehiculo que se cargó con el TXT, no tienen asignado ningun archivo para levantar y ver el inventario, por eso manda a 404.
+**Prueba 44 - Si tratas de ver el inventario de un vehiculo que se cargó con el TXT, no tienen asignado ningun archivo para levantar y ver el inventario, por eso manda a 404.
 		Debería estar funcionando bien si ingresas un vehiculo con la pantalla.
 
+
+10	Malo (no esta hecho)
+26	Bueno (puede haber error de logica en el txt de carga)
